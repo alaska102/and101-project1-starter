@@ -30,7 +30,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='![codepath](https://github.com/alaska102/and101-project1-starter/assets/68394076/05d99865-2aee-407b-b390-55059bfa06be)' title='Video Demo' width='' alt='Video Demo' />
+<img src='(https://giphy.com/gifs/jiQFNoCTdfEmwlHFIB)' title='Video Demo' width='' alt='Video Demo' />
 
 GIF created with **Giphy tool**
 
