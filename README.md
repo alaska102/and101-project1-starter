@@ -30,7 +30,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='[https://giphy.com/gifs/jiQFNoCTdfEmwlHFIB](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnphbTExN2lqenVoNXpuNjBmZ2xldmJnZ3RocmtzcWgyeHJmenV2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jiQFNoCTdfEmwlHFIB/giphy.gif)' title='Video Demo' width='' alt='Video Demo' />
+<img src='https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnphbTExN2lqenVoNXpuNjBmZ2xldmJnZ3RocmtzcWgyeHJmenV2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jiQFNoCTdfEmwlHFIB/giphy.gif' title='Video Demo' width='' alt='Video Demo' />
 
 GIF created with **Giphy tool**
 
